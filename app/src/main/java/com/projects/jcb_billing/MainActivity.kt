@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             Jcb_BillingTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Gunjan Dudu KAKA",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
